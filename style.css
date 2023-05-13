@@ -1,0 +1,163 @@
+.cmpnylogo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 5%;
+  height: 50%;
+  width: 25%;
+  margin: 0 auto;
+}
+
+{
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+    }
+
+   nav{
+      position: fixed;
+      width: 100%;
+      height: 70px;
+      line-height: 20px;
+      padding: 5px 100px;
+      background-color: black;
+      z-index: 9999;
+
+    }
+    nav .logo p{
+      font-size: 30px;
+      font-weight: bold;
+      float: left;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      cursor: pointer;
+      font-family: arial;
+    }
+    nav ul{
+      float: right;  
+    }
+    nav li{
+      display: inline-block;
+      list-style: none;
+    }
+    nav li a{
+      font-size: 18px;
+      text-transform: uppercase;
+      padding: 0px 30px;
+      color: white;
+      text-decoration: none;
+    }
+    nav li a:hover{
+      color: #ff8c69;
+      transition: all 0.4s ease 0s;
+}
+
+*,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	scroll-behavior: smooth;
+	font-family: arial;
+	font-size: 22px;
+	margin: 0;
+	background: #fff;
+	color: #000;
+}
+
+.banner{
+	min-height: 100vh;
+	position: relative;
+	background-position: center center;
+	background-repeat: no-repeat;
+
+	background-size:auto 200%;
+}
+.banner-overlay{
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+	pointer-events: none;
+	opacity: 0%;
+
+}
+.section{
+	padding: 60px 30px;
+}
+.section h1{
+	font-size: 50px;
+}
+.container{
+	max-width: 1200px;
+	margin:auto;
+}
+
+ .Home{ position: absolute; 
+        left: 5%;
+        top: 15%; 
+text-shadow: 1px 1px 1px #000000; 
+	color: white; font-family: 
+	arial; font-size: 5px;
+        padding-top: 0px; }
+      
+      .Tagline{ position: absolute; 
+        left: 9%;
+        top: 17%; 
+text-shadow: 1px 1px 1px #000000; 
+	color: white; font-family: 
+	arial; font-size: 20px;
+        padding-top: 70px; }
+
+.pplogo{
+	position: absolute;
+	left: 15%;	
+      	top:65%;
+	height:25%;
+	width:12.5%;
+}
+
+.ppabtlogo{
+	position: relative; 
+left: 50%;
+transform: translateX(-50%);	
+	height:25%;
+	width:12.5%;
+}
+
+.slogan {
+  position: absolute;
+  text-align: center;
+  top: 30%;		
+  color: white;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px #000000; 
+  font-family: arial;
+  width: 97%;
+}
+
+.slogan h1 {
+  text-align: center;
+}
+
+
+.Plannerpal{ position: absolute;
+      left:30%;
+      top:57%;
+      color: white;
+      font-size:30px;
+text-shadow: 1px 1px 1px #000000; 
+      font-family: arial;
+      padding-top: 70px; }
+
+ .appintro{ position: absolute; 
+      left: 30%;
+      top: 65%; color: white; font-family: arial; font-size: 14px;
+      text-align: left;
+ text-shadow: 1px 1px 1px #000000; 
+      padding-top: 70px;}

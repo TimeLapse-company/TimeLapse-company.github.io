@@ -137,20 +137,3 @@ transform: translateX(-50%);
 .slogan h1 {
   text-align: center;
 }
-
-
-.Plannerpal{ position: absolute;
-      left:30%;
-      top:57%;
-      color: white;
-      font-size:30px;
-text-shadow: 1px 1px 1px #000000; 
-      font-family: arial;
-      padding-top: 70px; }
-
- .appintro{ position: absolute; 
-      left: 30%;
-      top: 65%; color: white; font-family: arial; font-size: 14px;
-      text-align: left;
- text-shadow: 1px 1px 1px #000000; 
-      padding-top: 70px;}

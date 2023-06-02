@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "Roboto-regular";
-  src: url(Fonts/Roboto-regular.ttf) format("truetype");
+  src: url(Fonts/Roboto.ttf) format("truetype");
 }
 
 .cmpnylogo {
@@ -173,7 +173,6 @@ transform: translateX(-50%);
   background: #3B5998;
   color: white;
 }
-
 
 h3{
 	font-family: Futura;

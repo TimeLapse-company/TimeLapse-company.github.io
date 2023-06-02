@@ -4,9 +4,10 @@
 }
 
 @font-face {
-  font-family: "Roboto-regular";
+  font-family: "Catamaran";
   src: url(Fonts/Roboto.ttf) format("truetype");
 }
+
 
 .cmpnylogo {
   position: absolute;
@@ -72,7 +73,7 @@
 }
 body{
 	scroll-behavior: smooth;
-	font-family: arial;
+	font-family: Catamaran;
 	font-size: 22px;
 	margin: 0;
 	background: #fff;

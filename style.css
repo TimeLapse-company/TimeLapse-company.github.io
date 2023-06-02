@@ -176,4 +176,9 @@ transform: translateX(-50%);
 
 p{
 	font-family: Roboto;
+	text-align: justify
+}
+
+h3{
+	font-family: Futura;
 }

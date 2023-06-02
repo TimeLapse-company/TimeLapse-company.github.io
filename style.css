@@ -4,7 +4,7 @@
 }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: "Roboto-regular";
   src: url(Fonts/Roboto-regular.ttf) format("truetype");
 }
 
@@ -175,7 +175,7 @@ transform: translateX(-50%);
 }
 
 p{
-	font-family: Roboto;
+	font-family: Roboto-regular;
 	text-align: justify;
 }
 
